@@ -1,7 +1,8 @@
 name = Silex
 description = Silex theme
-version = 7.x-1.0
+version = 7.x-3.0
 core = 7.x
 base theme = bootstrap
 stylesheets[all][] = css/silex.css
 engine = phptemplate
+settings[silex_theme-footer-text] = Silex All rights reserved.
