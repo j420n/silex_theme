@@ -8,7 +8,7 @@ body {
 
 .page-header {
     padding-bottom: 9px;
-    margin: 60px 0 30px;
+    margin: 100px 0 30px;
     border-bottom: 1px solid #eeeeee;
 }
 
@@ -142,12 +142,12 @@ position: fixed;
 
 /* Navbar links: increase padding for taller navbar */
 .navbar .nav > li > a {
-    padding: 10px 20px;
+    margin:1px;
     float: right;
-    background-color: #1B1B1B;
+    background-color: #009adf;
 }
 .navbar .nav .active > a, .navbar .nav .active > a:hover{
-    background-color: #1B1B1B;
+    background-color: #009adf;
 }
 .navbar .nav .highlight-item a {
     color: #009adf;
