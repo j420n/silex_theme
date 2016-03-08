@@ -4,6 +4,8 @@
  *
  * @see page.tpl.php
  */
+function silex_preprocess_page(&$variables) {
+}
 
 function silex_form_system_theme_settings_alter(&$form, $form_state) {
     $form['silex_theme-footer-text'] = array(
