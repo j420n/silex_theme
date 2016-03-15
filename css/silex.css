@@ -164,6 +164,13 @@ position: fixed;
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
+#navbar {
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    right: 0;
+}
+
 /* Carousel base class */
 .carousel {
     margin-bottom: 0;
