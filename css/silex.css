@@ -144,13 +144,13 @@ position: fixed;
 .navbar .nav > li > a {
     margin:1px;
     float: right;
-    background-color: #009adf;
+    background-color: #00ADEF;
 }
 .navbar .nav .active > a, .navbar .nav .active > a:hover{
-    background-color: #009adf;
+    background-color: #00ADEF;
 }
 .navbar .nav .highlight-item a {
-    color: #009adf;
+    color: #00ADEF;
 }
 
 /* Offset the responsive button for proper vertical alignment */
