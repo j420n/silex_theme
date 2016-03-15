@@ -6,9 +6,10 @@ body {
     padding: 0;
 }
 
-.container{
+.container {
     padding-left: 0px;
     padding-right: 0px;
+    min-width: 100%;
 }
 
 .page-header {
@@ -210,11 +211,11 @@ position: fixed;
 }
 
 .carousel .item {
-    height: auto;
+    height: 100%;
 }
 .carousel img {
     min-width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .carousel-caption {
@@ -309,7 +310,7 @@ position: fixed;
 
     .carousel img {
         width: 100%;
-        min-height: 850px;
+        min-height: 100%;
     }
 }
 
@@ -317,7 +318,7 @@ position: fixed;
 
     .carousel img {
         width: auto;
-        min-height: 750px;
+        height: 100%;
     }
 }
 
@@ -332,7 +333,7 @@ position: fixed;
     }
 
     .carousel .item {
-        height: auto;
+        height: 100%;
     }
     .carousel img {
         width: 100%;
