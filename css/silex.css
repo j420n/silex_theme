@@ -6,6 +6,11 @@ body {
     padding: 0;
 }
 
+.container{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .page-header {
     padding-bottom: 9px;
     margin: 100px 0 30px;
@@ -169,6 +174,14 @@ position: fixed;
     z-index: 999;
     left: 0;
     right: 0;
+}
+#navbar .container{
+    max-width: 100%;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 .breadcrumb{
