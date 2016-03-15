@@ -171,6 +171,11 @@ position: fixed;
     right: 0;
 }
 
+.breadcrumb{
+    margin-top: 80px;
+}
+
+
 /* Carousel base class */
 .carousel {
     margin-bottom: 0;
