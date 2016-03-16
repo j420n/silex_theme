@@ -18,6 +18,10 @@ body {
     border-bottom: 1px solid #eeeeee;
 }
 
+.region .region-content {
+    margin-top: 100px;
+}
+
 #OUR-TEAM-CAROUSEL
 .jcarousel-skin-default .jcarousel-item-horizontal{
     border:0;
