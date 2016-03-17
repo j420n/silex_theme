@@ -321,7 +321,7 @@ position: fixed;
 }
 
 .our-team div h1, .our-team div p{
-    width:90%;
+    width:100%;
     padding:0 5%;
     margin:0;
     background-color:#008080; background-color: rgba(39, 160, 223, 0.8);
